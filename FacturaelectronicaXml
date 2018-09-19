@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FacturaElectronica xsi:schemaLocation="https://tribunet.hacienda.go.cr/docs/esquemas/2017/v4.2/facturaElectronica https://tribunet.hacienda.go.cr/docs/esquemas/2017/v4.2/facturaElectronica.xsd" xmlns="https://tribunet.hacienda.go.cr/docs/esquemas/2017/v4.2/facturaElectronica" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Clave>50604041800310275081000100001010000000001199999999</Clave>
+<NumeroConsecutivo>00100001010000000001</NumeroConsecutivo>
+<FechaEmision>2018-04-04T17:50:47.000</FechaEmision>
+<Emisor>
+<Nombre>SOPORTE REAL SRL</Nombre>
+<Identificacion>
+<Tipo>02</Tipo>
+<Numero>3102750810</Numero>
+</Identificacion>
+<Ubicacion>
+<Provincia>1</Provincia>
+<Canton>11</Canton>
+<Distrito>04</Distrito>
+<OtrasSenas>11-VILLANOVA.</OtrasSenas>
+</Ubicacion>
+<Telefono>
+<CodigoPais>506</CodigoPais>
+<NumTelefono>22290303</NumTelefono>
+</Telefono>
+<CorreoElectronico>INFO@SOPORTEREAL.COM</CorreoElectronico>
+</Emisor>
+<Receptor>
+<Nombre>ALMACEN EL MEJOR PRECIO S.A</Nombre>
+<Identificacion>
+<Tipo>02</Tipo>
+<Numero>3101110681</Numero>
+</Identificacion>
+<Ubicacion>
+<Provincia>7</Provincia>
+<Canton>02</Canton>
+<Distrito>05</Distrito>
+<OtrasSenas>CARIARI, POCOCI</OtrasSenas>
+</Ubicacion>
+<Telefono>
+<CodigoPais>506</CodigoPais>
+<NumTelefono>83165981, 63270881, </NumTelefono>
+</Telefono>
+<CorreoElectronico>soporte@mejorpreciocr.com,contabilidad2@mejorpreciocr.com</CorreoElectronico>
+</Receptor>
+<CondicionVenta>01</CondicionVenta>
+<MedioPago>01</MedioPago>
+<DetalleServicio>
+<LineaDetalle>
+<NumeroLinea>1</NumeroLinea>
+<Codigo>
+<Tipo>02</Tipo>
+<Codigo>1000</Codigo>
+</Codigo>
+<Cantidad>1</Cantidad>
+<UnidadMedida>Unid</UnidadMedida>
+<Detalle>LECTOR DE HUELLA URU4000B DIGITAL USB </Detalle>
+<PrecioUnitario>.00000</PrecioUnitario>
+<MontoTotal>.00000</MontoTotal>
+<SubTotal>.00000</SubTotal>
+<MontoTotalLinea>.00000</MontoTotalLinea>
+</LineaDetalle>
+</DetalleServicio>
+<ResumenFactura>
+<CodigoMoneda>CRC</CodigoMoneda>
+<TipoCambio>1.00000</TipoCambio>
+<TotalServExentos>94875.00000</TotalServExentos>
+<TotalExento>94875.00000</TotalExento>
+<TotalVenta>94875.00000</TotalVenta>
+<TotalVentaNeta>94875.00000</TotalVentaNeta>
+<TotalComprobante>94875.00000</TotalComprobante>
+</ResumenFactura>
+<Normativa>
+<NumeroResolucion>DGT-R-48-2016</NumeroResolucion>
+<FechaResolucion>07-10-2016 00:00:00</FechaResolucion>
+</Normativa>
+<Otros>
+<OtroTexto>-- ATV Comprobante Electronico --</OtroTexto>
+</Otros>
+</FacturaElectronica>
