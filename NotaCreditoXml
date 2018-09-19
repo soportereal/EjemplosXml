@@ -1,0 +1,222 @@
+<NotaCreditoElectronica xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://tribunet.hacienda.go.cr/docs/esquemas/2017/v4.2/notaCreditoElectronica" xsi:schemaLocation="https://tribunet.hacienda.go.cr/docs/esquemas/2017/v4.2/notaCreditoElectronica https://tribunet.hacienda.go.cr/docs/esquemas/2017/v4.2/notaCreditoElectronica.xsd">
+  <Clave>50615091800010582003200100001030000000416199999999</Clave>
+  <NumeroConsecutivo>00100001030000000416</NumeroConsecutivo>
+  <FechaEmision>2018-09-15T17:51:29.000</FechaEmision>
+  <Emisor>
+    <Nombre>GERARDO OVIEDO FERNANDEZ</Nombre>
+    <Identificacion>
+      <Tipo>01</Tipo>
+      <Numero>105820032</Numero>
+    </Identificacion>
+    <Ubicacion>
+      <Provincia>1</Provincia>
+      <Canton>01</Canton>
+      <Distrito>03</Distrito>
+      <OtrasSenas>DEFINIR OTRAS SENAS</OtrasSenas>
+    </Ubicacion>
+    <Telefono>
+      <CodigoPais>506</CodigoPais>
+      <NumTelefono>22585283</NumTelefono>
+    </Telefono>
+    <CorreoElectronico>tonyovied@hotmail.com</CorreoElectronico>
+  </Emisor>
+  <Receptor>
+    <Nombre>ESTIMADO CLIENTE</Nombre>
+  </Receptor>
+  <CondicionVenta>01</CondicionVenta>
+  <MedioPago>01</MedioPago>
+  <DetalleServicio>
+    <LineaDetalle>
+      <NumeroLinea>1</NumeroLinea>
+      <Codigo>
+        <Tipo>04</Tipo>
+        <Codigo>746464614440000</Codigo>
+      </Codigo>
+      <Cantidad>1.000</Cantidad>
+      <UnidadMedida>Unid</UnidadMedida>
+      <Detalle>GOMITA HAMBURGUESA 1X30-HONG</Detalle>
+      <PrecioUnitario>1946.90000</PrecioUnitario>
+      <MontoTotal>1946.90000</MontoTotal>
+      <SubTotal>1946.90000</SubTotal>
+      <Impuesto>
+        <Codigo>01</Codigo>
+        <Tarifa>13</Tarifa>
+        <Monto>253.097</Monto>
+      </Impuesto>
+      <MontoTotalLinea>2199.99700</MontoTotalLinea>
+    </LineaDetalle>
+    <LineaDetalle>
+      <NumeroLinea>2</NumeroLinea>
+      <Codigo>
+        <Tipo>04</Tipo>
+        <Codigo>750108821053200</Codigo>
+      </Codigo>
+      <Cantidad>1.000</Cantidad>
+      <UnidadMedida>Unid</UnidadMedida>
+      <Detalle>CAJA NUCITA SUPER 4 1X12-JOGAIMEX-14012</Detalle>
+      <PrecioUnitario>1238.94000</PrecioUnitario>
+      <MontoTotal>1238.94000</MontoTotal>
+      <SubTotal>1238.94000</SubTotal>
+      <Impuesto>
+        <Codigo>01</Codigo>
+        <Tarifa>13</Tarifa>
+        <Monto>161.0622</Monto>
+      </Impuesto>
+      <MontoTotalLinea>1400.00220</MontoTotalLinea>
+    </LineaDetalle>
+    <LineaDetalle>
+      <NumeroLinea>3</NumeroLinea>
+      <Codigo>
+        <Tipo>04</Tipo>
+        <Codigo>756956991007000</Codigo>
+      </Codigo>
+      <Cantidad>1.000</Cantidad>
+      <UnidadMedida>Sp</UnidadMedida>
+      <Detalle>BOLSA CHOCOLATE CONITO 1X50-KEIDY</Detalle>
+      <PrecioUnitario>1327.43000</PrecioUnitario>
+      <MontoTotal>1327.43000</MontoTotal>
+      <SubTotal>1327.43000</SubTotal>
+      <Impuesto>
+        <Codigo>07</Codigo>
+        <Tarifa>13</Tarifa>
+        <Monto>172.5659</Monto>
+      </Impuesto>
+      <MontoTotalLinea>1499.99590</MontoTotalLinea>
+    </LineaDetalle>
+    <LineaDetalle>
+      <NumeroLinea>4</NumeroLinea>
+      <Codigo>
+        <Tipo>04</Tipo>
+        <Codigo>782122522587749</Codigo>
+      </Codigo>
+      <Cantidad>6.000</Cantidad>
+      <UnidadMedida>Unid</UnidadMedida>
+      <Detalle>PALETA MINI-GITANO-JAIME</Detalle>
+      <PrecioUnitario>132.74000</PrecioUnitario>
+      <MontoTotal>796.44000</MontoTotal>
+      <SubTotal>796.44000</SubTotal>
+      <Impuesto>
+        <Codigo>01</Codigo>
+        <Tarifa>13</Tarifa>
+        <Monto>103.5372</Monto>
+      </Impuesto>
+      <MontoTotalLinea>899.97720</MontoTotalLinea>
+    </LineaDetalle>
+    <LineaDetalle>
+      <NumeroLinea>5</NumeroLinea>
+      <Codigo>
+        <Tipo>04</Tipo>
+        <Codigo>869280600910700</Codigo>
+      </Codigo>
+      <Cantidad>6.000</Cantidad>
+      <UnidadMedida>Unid</UnidadMedida>
+      <Detalle>CHOCOLATE TIO CORNET CHOCOLATE-CHIPPS-222027</Detalle>
+      <PrecioUnitario>176.99000</PrecioUnitario>
+      <MontoTotal>1061.94000</MontoTotal>
+      <SubTotal>1061.94000</SubTotal>
+      <Impuesto>
+        <Codigo>01</Codigo>
+        <Tarifa>13</Tarifa>
+        <Monto>138.0522</Monto>
+      </Impuesto>
+      <MontoTotalLinea>1199.99220</MontoTotalLinea>
+    </LineaDetalle>
+  </DetalleServicio>
+  <ResumenFactura>
+    <CodigoMoneda>CRC</CodigoMoneda>
+    <TipoCambio>1</TipoCambio>
+    <TotalServGravados>1327.43000</TotalServGravados>
+    <TotalMercanciasGravadas>5044.22000</TotalMercanciasGravadas>
+    <TotalGravado>6371.65000</TotalGravado>
+    <TotalVenta>6371.65000</TotalVenta>
+    <TotalVentaNeta>6371.65000</TotalVentaNeta>
+    <TotalImpuesto>.00000</TotalImpuesto>
+    <TotalComprobante>6371.65000</TotalComprobante>
+  </ResumenFactura>
+  <InformacionReferencia>
+    <TipoDoc>01</TipoDoc>
+    <Numero>00100001040000001990</Numero>
+    <FechaEmision>2018-09-07T12:15:44.000</FechaEmision>
+    <Codigo>01</Codigo>
+    <Razon>Anulacion de factura</Razon>
+  </InformacionReferencia>
+  <Normativa>
+    <NumeroResolucion>DGT-R-48-2016</NumeroResolucion>
+    <FechaResolucion>07-10-2016 00:00:00</FechaResolucion>
+  </Normativa>
+  <Otros>
+    <OtroTexto>-- ATV Comprobante Electronico --</OtroTexto>
+  </Otros>
+  <ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-f0ba2e63-c851-4ccd-b1a3-52109acc95a4">
+    <ds:SignedInfo>
+      <ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <ds:Reference Id="Reference-99f3e681-613e-46a5-8493-39167e3f77d0" URI="">
+        <ds:Transforms>
+          <ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </ds:Transforms>
+        <ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <ds:DigestValue>u//kAusLMfmm5ODhQ6y6O8OrdiRRruM8H0jfRFrVpAg=</ds:DigestValue>
+      </ds:Reference>
+      <ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-f0ba2e63-c851-4ccd-b1a3-52109acc95a4">
+        <ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <ds:DigestValue>gYLQJG/n8R/5HHhbPyhphENXc8/dLf78kyZHF8FBePw=</ds:DigestValue>
+      </ds:Reference>
+      <ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-f0ba2e63-c851-4ccd-b1a3-52109acc95a4">
+        <ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <ds:DigestValue>k8e+sVhlKcpP9aAw+0lbDMXXWzUm5DpGNr/FVHGx228=</ds:DigestValue>
+      </ds:Reference>
+    </ds:SignedInfo>
+    <ds:SignatureValue Id="SignatureValue-f0ba2e63-c851-4ccd-b1a3-52109acc95a4">Io2k6lbE5CfHyJZcRj2SHmMo2t9RevilBm7/zMGbaCF1Wwlafe5P4fTzt0ty1mShJ41vUUoX70e/JNoFTzTxx62db2Mla0pzL7SD0KEr9Jz+CXKGvpDx7BGEwSPwqy5b4UXGDl+Ab+vq/1MTAqkI7M12eF6WSyMlXaN8uP9QiQOnSoHMOskWysB6m2DUHZ31PRvP1UBFIJyO3R245AwgjgI6pfJTIAMavJo4ngapFL5/XfG7QmgJWGoQXnEUVN1AhU+xejUoe8iCBCW/TlJPFgfzcUuc+cNU9iUtHU7+OH5MkWsenBGjkFvRQeKtMV1aV54FHyAp5fmmiOZPhCltwQ==</ds:SignatureValue>
+    <ds:KeyInfo Id="KeyInfoId-Signature-f0ba2e63-c851-4ccd-b1a3-52109acc95a4">
+      <ds:X509Data>
+        <ds:X509Certificate>MIIFUzCCAzugAwIBAgIGAWWcVtsIMA0GCSqGSIb3DQEBCwUAMFgxCzAJBgNVBAYTAkNSMR8wHQYDVQQKDBZNSU5JU1RFUklPIERFIEhBQ0lFTkRBMQwwCgYDVQQLDANER1QxGjAYBgNVBAMMEUNBIFBFUlNPTkEgRklTSUNBMB4XDTE4MDkwMjIyMTEwMloXDTIwMDkwMTIyMTEwMlowga8xGTAXBgNVBAUTEENQRi0wMS0wNTgyLTAwMzIxGTAXBgNVBAQMEE9WSUVETyBGRVJOQU5ERVoxGDAWBgNVBCoMD0dFUkFSRE8gQU5UT05JTzELMAkGA1UEBhMCQ1IxFzAVBgNVBAoMDlBFUlNPTkEgRklTSUNBMQwwCgYDVQQLDANDUEYxKTAnBgNVBAMMIEdFUkFSRE8gQU5UT05JTyBPVklFRE8gRkVSTkFOREVaMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjmAoH3tSihQu9al3Ul+6rZAxGCkP8Hw8EoDA0TIQ4Km2pyEJQzLWHrQLKldnhXUhZnbfiLVc2BOihcPf4aohNYPxmjEEQAFmYdSJKKTubw25/quABHyKTqpYYrvJGJUdhnDlkFW9LVcbbC73XqfwNlYyXz8Bf/WfZQbHZXD45GF2Q+C8rUUaQQY0hRlGbw5GpccApxpTd9X5J2OoNaKIDKrmkT6suEpbaALU/dF2kzCXKh0nqf7Wb9Twu0mDRBLxGmsbQS3ZW1YctBrFaMU62DvbUEJQItJB/WSodA4uB36Izo2UPO/PNipTRCdHoXU9Bl8Eww5HzRWQSHxBpzrFrQIDAQABo4HKMIHHMB8GA1UdIwQYMBaAFBP2akEN7aIkRdHIlKhBg3xiJWtZMB0GA1UdDgQWBBRzxm3zzLmfsyS16a9uIbHqsGz+szALBgNVHQ8EBAMCBsAwEwYDVR0lBAwwCgYIKwYBBQUHAwQwYwYIKwYBBQUHAQEEVzBVMFMGCCsGAQUFBzAChkdodHRwczovL3BraS5jb21wcm9iYW50ZXNlbGVjdHJvbmljb3MuZ28uY3IvcHJvZC9pbnRlcm1lZGlhdGUtcGYtcGVtLmNydDANBgkqhkiG9w0BAQsFAAOCAgEARMCWdQiy+1YUlt12VJOiumybRdMbYMpcVt1w2H4JqmAFQfRFSui9FsqrpyuB8BwBXH/tBplRjJqr0H7arn5jlYN7nMV9YaoLpT30VbJvNKAfsAsxCMM5aWwu+jgFaAZUyzpm6Bd2QiFeFHqF4y74FsKa2WkbjJrfCWYb0DgKEZM6v9ZfmA0hMWi05uuSSWA0yynbzahnFHyTvHaZkLshxd3g/2UeAA3zSU68ZmQxeMS35zfWWIyQsS80NG3n7aNvxRnz3KYWRaq+d51WkEB1Bq0Kl2PnwVnLmeuQSmyp4YF1ssun7M3yC5RTee93okUFkNMmEUp9W4poYOCSXmeRp1pOAIw+LEx5COUeMfLc3JpJT/YfIpD9P2F2slzdiX9LeiRoVKn4fyxXEoALKmyOh65oaUARnCgnbfvjpstXIAQ5VV9fZhVz/AzftSSbIHBCEWFYGXNoFAD4TLx8DU5mDzfMh9GyQR6WWLuhHULhHsYCiJlNifXXyPXX7Kmvr65fFK6ElV+Nyua9Rp0+0MBLoJs97bZhsx+XCVT6ZIF5HfJGa9xJL2sdzu8nuPDUeT9NW8oHnoxJU2e1+vaWNiuMInmTx4jKEkhbS1cltOr86PmpMRkGuIWTRYCSIkptgQRu59Wl5dfztUR9cTPRbgOpSbPBIkIBgl2+QuSoopMRszo=</ds:X509Certificate>
+      </ds:X509Data>
+      <ds:KeyValue>
+        <ds:RSAKeyValue>
+          <ds:Modulus>jmAoH3tSihQu9al3Ul+6rZAxGCkP8Hw8EoDA0TIQ4Km2pyEJQzLWHrQLKldnhXUhZnbfiLVc2BOihcPf4aohNYPxmjEEQAFmYdSJKKTubw25/quABHyKTqpYYrvJGJUdhnDlkFW9LVcbbC73XqfwNlYyXz8Bf/WfZQbHZXD45GF2Q+C8rUUaQQY0hRlGbw5GpccApxpTd9X5J2OoNaKIDKrmkT6suEpbaALU/dF2kzCXKh0nqf7Wb9Twu0mDRBLxGmsbQS3ZW1YctBrFaMU62DvbUEJQItJB/WSodA4uB36Izo2UPO/PNipTRCdHoXU9Bl8Eww5HzRWQSHxBpzrFrQ==</ds:Modulus>
+          <ds:Exponent>AQAB</ds:Exponent>
+        </ds:RSAKeyValue>
+      </ds:KeyValue>
+    </ds:KeyInfo>
+    <ds:Object Id="XadesObjectId-94020da7-cdd6-42f7-ace9-83ede41e4011">
+      <xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-237edc17-fabf-436a-bc29-19fa89befcc6" Target="#Signature-f0ba2e63-c851-4ccd-b1a3-52109acc95a4">
+        <xades:SignedProperties Id="SignedProperties-Signature-f0ba2e63-c851-4ccd-b1a3-52109acc95a4">
+          <xades:SignedSignatureProperties>
+            <xades:SigningTime>2018-09-15T17:52:28-06:00</xades:SigningTime>
+            <xades:SigningCertificate>
+              <xades:Cert>
+                <xades:CertDigest>
+                  <ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+                  <ds:DigestValue>w+agqG+2HZ/ITd+ABjcpSXb65c4KjJPovph7HPHLCgo=</ds:DigestValue>
+                </xades:CertDigest>
+                <xades:IssuerSerial>
+                  <ds:X509IssuerName>CN=CA PERSONA FISICA, OU=DGT, O=MINISTERIO DE HACIENDA, C=CR</ds:X509IssuerName>
+                  <ds:X509SerialNumber>1535926262536</ds:X509SerialNumber>
+                </xades:IssuerSerial>
+              </xades:Cert>
+            </xades:SigningCertificate>
+            <xades:SignaturePolicyIdentifier>
+              <xades:SignaturePolicyId>
+                <xades:SigPolicyId>
+                  <xades:Identifier>https://tribunet.hacienda.go.cr/docs/esquemas/2016/v4.1/Resolucion_Comprobantes_Electronicos_DGT-R-48-2016.pdf</xades:Identifier>
+                  <xades:Description />
+                </xades:SigPolicyId>
+                <xades:SigPolicyHash>
+                  <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                  <ds:DigestValue>Ohixl6upD6av8N7pEvDABhEL6hM=</ds:DigestValue>
+                </xades:SigPolicyHash>
+              </xades:SignaturePolicyId>
+            </xades:SignaturePolicyIdentifier>
+          </xades:SignedSignatureProperties>
+          <xades:SignedDataObjectProperties>
+            <xades:DataObjectFormat ObjectReference="#Reference-99f3e681-613e-46a5-8493-39167e3f77d0">
+              <xades:MimeType>text/xml</xades:MimeType>
+              <xades:Encoding>UTF-8</xades:Encoding>
+            </xades:DataObjectFormat>
+          </xades:SignedDataObjectProperties>
+        </xades:SignedProperties>
+      </xades:QualifyingProperties>
+    </ds:Object>
+  </ds:Signature>
+</NotaCreditoElectronica>
